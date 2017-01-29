@@ -1,0 +1,30 @@
+body{
+  background-color: violet;
+}
+h1,h2{
+  font-weight: bolder;
+  font-family: "Times New Roman", Georgia, serif;
+  color: purple;
+}
+
+h1{
+  font-size: 48px;
+  text-align: justify;
+  
+}
+
+h2{
+  font-size: 36px;
+  text-align: justify;;
+  text-decoration: underline;
+}
+#task-submit{
+  background-color:blue;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}

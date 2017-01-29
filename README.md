@@ -1,0 +1,1 @@
+Tasks can be saved, completed, and deleted. Once the task is completed the color of the complete button will change from red to green when clicked. All changes will be reflected/stored in the database. 
